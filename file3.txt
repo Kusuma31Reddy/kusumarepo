@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jefhiuwehrwdiosj
+=======
+kejuriew
+>>>>>>> second
